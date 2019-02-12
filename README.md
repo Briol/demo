@@ -1,4 +1,4 @@
-# demo
-demo de GitHub avec OCR et c'est bon pour le moment
+﻿# activityOCR
+Repository de l'activité openclassroom découvrir Git et Github
 
-je le modifie depuis github
+Il s'agit de crée deux fichiers, de les commits, 4 fois, puis de les envoyés sur le remote  
